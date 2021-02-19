@@ -1,1 +1,3 @@
 # CIS4360-Spotify_Case_Study
+## Option #16: Spotify Microservice Architecture
+I am choosing to do my case study on the microservice archecture at Spotify. I chose Spotify because it is an application that I use for hours every single day and would love to learn more about it. One of my passions has always been music and I think it will be very interesting to discover the interworkings of spotify's information technology and development departmetns to see how they have become the industry leader in music streaming. I did a little research and I have found many articles and several Ted-Talk style videos that I believe will be helpful in giving me an in-depth view of how Spotify functions.
